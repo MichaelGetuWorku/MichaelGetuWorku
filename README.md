@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science in Ethiopia
       languages i know and confortable are html5, css(sass or less) , Javscript , 
       freamwork Bootstrap, Tailwind, React and flutter
-      i am currenly studying  Node.js and soon Django
+      i am currenly studying AWS and Cyber cyber security with cisco network acadamy.
 - 📫 How to reach me 📞+251-940-082-280 📧 michael.getu.hh3221@gmail.com
 
 <!---
