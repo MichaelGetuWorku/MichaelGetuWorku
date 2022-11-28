@@ -7,9 +7,8 @@ Frontend developer and UI designer
 * 🌍  I'm based in Ethiopia , Adiss Abeba
 * 🖥️  See my portfolio at [Michael Getu](http://michaelgetu.netlify.com/)
 * ✉️  You can contact me at [michaelGetu@proton.me](mailto:michaelGetu@proton.me)
-* 🧠  I'm learning Next.js and Vue3
 * 🤝  I'm open to collaborating on any Frontend and UI design
-* ⚡  I'm Batman (i wish i was, or am I).
+
 
 ### Skills
 
